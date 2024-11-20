@@ -36,7 +36,7 @@ Kaggle Datasets: [Link to Kaggle Dataset 1](https://www.kaggle.com/datasets/mlg-
 ## Authors <!--- do not change this line -->
 
 This project was completed in collaboration with:
-- Selin Toker (GitHub, email)
+- Selin Toker
 - Sebastian Nares
 - Virinchi Vanjarapu
 - Amrit Shakya
