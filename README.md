@@ -21,8 +21,7 @@ Applied the following methodologies to achieve project goals:
 
 ## Data Sources <!--- do not change this line -->
 
-*Kaggle Datasets: [Link to Kaggle Dataset 1](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)*
-[Link to Kaggle Dataset 2](https://www.kaggle.com/c/ieee-fraud-detection/)*
+Kaggle Datasets: [Link to Kaggle Dataset 1](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), [Link to Kaggle Dataset 2](https://www.kaggle.com/c/ieee-fraud-detection/)
 
 ## Technologies Used <!--- do not change this line -->
 
